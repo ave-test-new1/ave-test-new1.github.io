@@ -1,0 +1,1 @@
+import{_o as o,go as r}from"./qQl47MVh.js";import{t}from"./dapq-uZ1.js";var n=null;function l(){return n??=function(){const{token_logo_url:n}=o(),l=o=>`${n}chain/${o}.png`;return{logoUrl:l,colorOf:o=>r(o)||t(l(o))}}(),n}export{l as t};
